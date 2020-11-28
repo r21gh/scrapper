@@ -1,2 +1,2 @@
 # scrapper
- Concurrent Scrapper
+ Concurrent scrapper written in Golang
